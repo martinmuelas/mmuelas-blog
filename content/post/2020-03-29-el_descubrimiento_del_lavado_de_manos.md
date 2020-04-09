@@ -1,12 +1,13 @@
 ---
 title: "Dr. Semmelweis y el descubrimiento del lavado de manos"
 date: 2020-03-29
-excerpt: Conozcamos la historia de como el Dr. Semmelweis descubrió la importancia del lavado de manos.
-categories: [notebook]
+summary: Conozcamos la historia de como el Dr. Semmelweis descubrió la importancia del lavado de manos.
+categories: [Notebook]
 tags: [data manipulation, data visualization]
+featured: true
 header:
-  teaser: ../assets/images/jupyter/el_descubrimiento_del_lavado_de_manos_files/semmelweis_teaser.jpg
-  og_image: ../assets/images/jupyter/el_descubrimiento_del_lavado_de_manos_files/semmelweis_teaser.jpg
+  #image: /jupyter/el_descubrimiento_del_lavado_de_manos_files/semmelweis_teaser.jpg
+#  og_image: ../assets/images/jupyter/el_descubrimiento_del_lavado_de_manos_files/semmelweis_teaser.jpg
 ---
 
 <!-- ![header](/img/jupyter/el_descubrimiento_del_lavado_de_manos_files/semmelweis_header.jpg") -->

@@ -13,23 +13,23 @@ superuser: true
 role: BI Analyst Developer | Data Science Enthusiast
 
 # Organizations/Affiliations
-organizations:
-  - name:
-    url: ""
+#organizations:
+#  - name:
+#    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+#bio:
+#
+#interests:
+#  - Data Science
+#  - Machine Learning
+#  - Process Automation
 
-interests:
-  - Data Science
-  - Machine Learning
-  - Process Automation
-
-education:
-  courses:
-    - course: Técnico Superior en Programación
-      institution: Universidad Tecnológica Nacional
-      year: 2015
+#education:
+#  courses:
+#    - course: Técnico Superior en Programación
+#      institution: Universidad Tecnológica Nacional
+#      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -56,12 +56,13 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "martinmuelas@gmail.com"
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  # - Researchers
-  # - Visitors
+#user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Utilizo este sitio para ir dejando registro de mis proyectos personales y notas. A veces escribo sobre cosas que me resultan interesantes también.
+<p>Hola! 👋</p>
+<p>Este es mi blog personal. Un sitio que utilizo para ir almacenando mis proyectos personales y notas. La mayoría de los posts están basados en temas de programación y de análisis de datos.</p> 
+<p>Si te interesa contactarme, no dudes en escribirme o seguirme en redes sociales.</p>
