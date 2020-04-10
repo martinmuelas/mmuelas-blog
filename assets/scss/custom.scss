@@ -70,3 +70,25 @@
 .big-icon {
   font-size: 1.2rem;
 }
+
+/*************************************************
+ *  Posts
+ **************************************************/
+table.dataframe {
+  border: 0;
+  font-family: Helvetica, "Roboto Mono", "Courier New", Courier, monospace;
+  font-size: small;
+
+  thead {
+    border: 0;
+    border-bottom: 1px solid black;
+
+    th {
+      border: 0;
+    }
+  }
+
+  td {
+    border: 0;
+  }
+}
