@@ -5,7 +5,7 @@ name = "mmuelas_custom_theme"
 light = true
 
 # Primary
-primary = "#5197ad"#"#2962ff"
+primary = "#28627a" #"#5197ad"
 
 # Menu
 menu_primary = "#fff"

@@ -1,4 +1,13 @@
 /*************************************************
+ *  Navigation bar
+ **************************************************/
+.navbar-nav {
+  .nav-link {
+    font-weight: 700;
+  }
+}
+
+/*************************************************
  *  Page Builder: sections and widgets
  **************************************************/
 @keyframes intro {
@@ -90,5 +99,13 @@ table.dataframe {
 
   td {
     border: 0;
+  }
+}
+
+ul.share {
+  li {
+    a {
+      color: var(--secondary);
+    }
   }
 }
