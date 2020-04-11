@@ -2,17 +2,14 @@
 title: "Dr. Semmelweis y el descubrimiento del lavado de manos"
 date: 2020-03-29
 summary: Conozcamos la historia de como el Dr. Semmelweis descubrió la importancia del lavado de manos.
+authors: [admin]
 categories: [Notebook]
 tags: [data manipulation, data visualization]
-featured: true
-header:
-  #image: /jupyter/el_descubrimiento_del_lavado_de_manos_files/semmelweis_teaser.jpg
-#  og_image: ../assets/images/jupyter/el_descubrimiento_del_lavado_de_manos_files/semmelweis_teaser.jpg
+image:
+  preview_only: true
 ---
 
-<!-- ![header](/img/jupyter/el_descubrimiento_del_lavado_de_manos_files/semmelweis_header.jpg") -->
-
-{{< figure library="true" src="/jupyter/el_descubrimiento_del_lavado_de_manos_files/semmelweis_header.jpg" lightbox="true" >}}
+{{< figure src="semmelweis_header.jpg" >}}
 
 ### Conoce al Dr. Ignaz Semmelweis
 
@@ -260,7 +257,7 @@ ax.set_ylabel("Proporción de muertes")
 plt.show()
 ```
 
-{{< figure src="/img/jupyter/el_descubrimiento_del_lavado_de_manos_files/el_descubrimiento_del_lavado_de_manos_5_0.png" lightbox="true" >}}
+{{< figure src="el_descubrimiento_del_lavado_de_manos_5_0.png" >}}
 
 ### Comienza el lavado de manos
 
@@ -359,7 +356,7 @@ ax.set_ylabel("Proporción de muertes")
 plt.show()
 ```
 
-{{< figure src="/img/jupyter/el_descubrimiento_del_lavado_de_manos_files/el_descubrimiento_del_lavado_de_manos_9_0.png" lightbox="true" >}}
+{{< figure src="el_descubrimiento_del_lavado_de_manos_9_0.png" >}}
 
 A partir del verano de 1847, la proporción de muertes se reduce drásticamente y, sí, esto fue cuando Semmelweis hizo obligatorio el lavado de manos.
 
@@ -382,9 +379,7 @@ ax.set_ylabel("Proporción de muertes")
 plt.show()
 ```
 
-<!-- ![png](/assets/images/jupyter/el_descubrimiento_del_lavado_de_manos_files/el_descubrimiento_del_lavado_de_manos_11_0.png) -->
-
-{{< figure src="/img/jupyter/el_descubrimiento_del_lavado_de_manos_files/el_descubrimiento_del_lavado_de_manos_11_0.png" lightbox="true" >}}
+{{< figure src="el_descubrimiento_del_lavado_de_manos_11_0.png" >}}
 
 ### ¿Más lavado de manos, menos muertes?
 
