@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: BI Analyst Developer | Data Science Enthusiast
+role: Data Analyst | BI Developer
 
 # Organizations/Affiliations
 #organizations:
