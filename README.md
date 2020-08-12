@@ -1,6 +1,6 @@
-Repositorio para mi Blog | Portfolio personal
+## Repositorio para mi Blog | Portfolio personal
 
-⛓ https://www.mmuelas.com
+🔗 https://www.mmuelas.com
 
 Un sitio que utilizo para ir almacenando mis proyectos personales y notas. La mayoría de los posts están basados en temas de programación y de análisis de datos.
 
@@ -10,4 +10,4 @@ Un sitio que utilizo para ir almacenando mis proyectos personales y notas. La ma
 
 ---
 
-Hecho con ❤, markdown y basado en el theme [Academic](https://github.com/gcushen/hugo-academic) para [HUGO](https://gohugo.io/).
+Hecho con ❤, escrito en markdown y basado en el theme [Academic](https://github.com/gcushen/hugo-academic) para [HUGO](https://gohugo.io/).
