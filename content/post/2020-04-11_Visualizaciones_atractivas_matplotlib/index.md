@@ -16,7 +16,9 @@ image:
 
 ### Expansión COVID-19: Visualizaciones atractivas con Matplotlib
 
-Desde hace ya algunas semanas el mundo se encuentra atravesando un momento histórico en el que la mayor parte de las personas nos encontramos en cuaretena con el objetivo de ralentizar la expansión de la pandemia del coronavirus. Durante estos días, todo parece girar alrededor de este tema y este notebook no será la excepción. Me propongo utilizar información sobre la expansión del virus como hilo conductor para crear visualizaciones atractivas con la librería más común en Python, `matplotlib`.
+Desde hace ya algunas semanas el mundo se encuentra atravesando un momento histórico en el que la mayor parte de las personas nos encontramos en cuarentena con el objetivo de ralentizar la expansión de la pandemia del coronavirus. Durante estos días, todo parece girar alrededor de este tema y este notebook no será la excepción. Me propongo utilizar información sobre la expansión del virus como hilo conductor para crear visualizaciones atractivas con la librería más común en Python, `matplotlib`.
+
+_Este post está basado en [este artículo](https://towardsdatascience.com/visualizing-covid-19-data-beautifully-in-python-in-5-minutes-or-less-affc361b2c6a) de **Nik Piepenbreier** para **Towards Data Science**._
 
 ### Pandemia de enfermedad por coronavirus 2019-2020
 
